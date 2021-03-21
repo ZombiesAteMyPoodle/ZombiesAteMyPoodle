@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ZombiesAteMyPoodle
+- 👋 Hi, I’m @Zamp2112
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning (f"100 days of Python and {Godot}")
+- 🌱 I’m currently learning (f"100 days of Python, {Godot} and {GitKraken}")
 
 
 <!---
